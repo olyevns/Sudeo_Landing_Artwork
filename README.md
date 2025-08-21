@@ -1,3 +1,3 @@
-# Sudeo_Landing_Artwork
+# Sudeo Landing Artwork
 
 Contains resources for elements on www.sudeo.com
